@@ -5,7 +5,7 @@ This Web-GIS project was funded by the German Federal Ministry of Education and 
 
 The online version ofthe web GIS tools developed 2014-2017 is hosted on a Server at Sokoine University of Agriculture (SUA), Morogoro, Tanzania http://sua.terragis.net/transsec .
 
-A mirror of the SUA Server is at http://terra5.terragis.net/sites/html/transsec/
+A mirror of the SUA Server is at http://transsec.terragis.net or http://tsec.terragis.net (same server).
 
 This site supplies a link to a virtualbox image of the system that can run locally without the necessity of having an internet connection in order to run the tools in a browser. The project is aimed at providing a tool that can be used in the field in remote areas with no or slow internet connections and at providing interactive tools that can be used in teaching at in academic institutions and for capacity building. The virtual image is based on the OSGEO live project and is running on a Lubuntu operating system.
 
