@@ -12,4 +12,4 @@ Download the zipped vdi file - size is a wooping 6.6 GB - for use with VirtualBo
 
 ## Presentation of the Tanzania Food and Land Productivity Information System
 
-The Tanzania Food and Land Productivity Information System - with a focus on the Land Evaluation Tool - was presented at [FOSS4G 2018 in Dar-Es-Salaam, Tanzania](https://2018.foss4g.org/) on August 31,2018. The slides in power point format can be found [here](http://www.terragis.net/docs/presentations/FOSS4G_2018_LET.ppt). The Presentation Abstract as PDF can be found here.
+The Tanzania Food and Land Productivity Information System - with a focus on the Land Evaluation Tool - was presented at [FOSS4G 2018 in Dar-Es-Salaam, Tanzania](https://2018.foss4g.org/) on August 31,2018. The slides in power point format can be found [here](http://www.terragis.net/docs/presentations/FOSS4G_2018_LET.ppt). The Presentation Abstract as PDF can be found [here ](foss4g2018_Abstract_TheTanzaniaFoodandLandProductivityInformationSystem.pdf).
