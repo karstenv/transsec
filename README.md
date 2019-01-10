@@ -16,5 +16,5 @@ The Tanzania Food and Land Productivity Information System - with a focus on the
 
 ## The Tanzania Land Evaluation Tool as part of the FAO Land and Water Toolbox
 
-The Tanzania Land Evaluation Tool was added in January 2019 to the [FAO Land and water Toolbox listing](http://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1176418/)
+The Tanzania Land Evaluation Tool was added in January 2019 to the [FAO Land and water Toolbox listing](http://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1176418/).
 
